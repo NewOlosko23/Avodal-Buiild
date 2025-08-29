@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://avodal-buiild.onrender.com/</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://avodal-buiild.onrender.com/about</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Services Page -->
+  <url>
+    <loc>https://avodal-buiild.onrender.com/services</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://avodal-buiild.onrender.com/contact</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
