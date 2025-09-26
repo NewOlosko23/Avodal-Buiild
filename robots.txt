@@ -1,4 +1,19 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://avodal-buiild.onrender.com/Sitemap.xml
+# Sitemap
+Sitemap: https://avodal-buiild.onrender.com/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Allow important pages
+Allow: /our-services/
+Allow: /contact-us/
+Allow: /get-a-quote/
+Allow: /about/
